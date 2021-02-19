@@ -1,2 +1,2 @@
 // pretty empty file
-const myToken = "dp.pt.j5777Zn3n7tyVUbKxAyhDMjnFJJEPCJJSNp3grSFrbDELw";
+const myToken = "dp.pt.j5777Zn3n7tyVUbKxAyhDMjnFJJEPCJJSNp3grSFrbMELw";
